@@ -1,7 +1,7 @@
 {
     "build": {
         "env": {
-            "SENDGRID_API_KEY": "@sendgrid-api-key-production-atq8"
+            "SENDGRID_API_KEY": "@sendgrid_api_key"
         }
     }
 }
