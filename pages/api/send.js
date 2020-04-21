@@ -24,3 +24,4 @@ export default async function (req, res) {
         res.status(400).send('Message not sent.')
     }
 }
+
